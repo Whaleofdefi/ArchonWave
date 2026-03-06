@@ -368,8 +368,10 @@ def write_config():
     config = f"""title: {SITE_TITLE}
 description: {SITE_DESCRIPTION}
 author: {AUTHOR}
-baseurl: ""
-url: ""
+baseurl: "/ArchonWave"
+url: "https://whaleofdefi.github.io"
+
+future: true
 
 # Build settings
 theme: minima
@@ -479,7 +481,10 @@ if __name__ == "__main__":
         print("Tip: Run with --site-url https://yourusername.github.io to get exact URLs in post_urls.txt")
     print("=" * 50)
 
-    write_config()
+    if not os.path.exists("_config.yml"):
+        write_config()
+    else:
+        print("Skipping _config.yml (already exists)")
     write_homepage()
     write_gemfile()
     write_about()
