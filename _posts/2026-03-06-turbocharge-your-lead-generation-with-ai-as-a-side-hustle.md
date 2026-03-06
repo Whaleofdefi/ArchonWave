@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Turbocharge Your Lead Generation with AI as a side hustle"
-date: 2026-03-06 17:00:00 +0000
-categories: [Content Creation]
-tags: ["content-scaling", "skool", "ai-profit-boardroom", "programmatic-seo"]
+date: 2026-03-06 12:00:00 +0000
+categories: [Agency Growth]
+tags: ["digital-marketing", "passive-income", "affiliate-marketing", "skool"]
 description: "Turbocharge Your Lead Generation with AI as a side hustle — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Turbocharge Your Lead Generation with AI as a side hustle
 
-Real talk — I was skeptical about using AI for SEO but this changed my mind completely.
+If you're not using AI SOPs in your agency by now you're falling behind fast.
 
-What makes this different from every other AI course is the Workflow Vault — a library of SOPs with actual ChatGPT prompts for everything from affiliate content to building 1000-page websites. Copy the prompt, paste into ChatGPT, follow the process.
+For SEO agency owners, the contract templates, vendor lists, and advanced outreach SOPs in the Boardroom are worth the subscription alone. These are real business assets.
 
-This is the community I wish existed when I started: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Give it one month and see what happens: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

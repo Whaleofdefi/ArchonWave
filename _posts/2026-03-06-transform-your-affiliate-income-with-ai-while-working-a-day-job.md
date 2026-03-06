@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Transform Your Affiliate Income with AI while working a day job"
-date: 2026-03-06 00:00:00 +0000
-categories: [Passive Income]
-tags: ["digital-marketing", "affiliate-marketing", "ai-seo", "skool"]
+date: 2026-03-06 23:00:00 +0000
+categories: [AI Tools]
+tags: ["chatgpt", "freelancing", "digital-marketing", "seo-automation"]
 description: "Transform Your Affiliate Income with AI while working a day job — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Transform Your Affiliate Income with AI while working a day job
 
-I tried every AI content tool out there. Most are hype. This one is different.
+Before I found this I was piecing together strategies from YouTube and Reddit. Big mistake.
 
-The entry price is around $59/month — nothing compared to the 40+ hours a week you could save with the right AI automations. Most members recoup that in their first week.
+If you're a freelancer looking to offer AI services to local businesses, the Boardroom gives you the exact playbook: the prompts, the pitch, the delivery process.
 
-Curious what others think — have you tried it? Link here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Here's the link if you want to take a closer look: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

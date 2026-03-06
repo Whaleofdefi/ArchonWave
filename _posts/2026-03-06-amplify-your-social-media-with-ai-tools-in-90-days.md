@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Amplify Your Social Media with AI Tools in 90 days"
-date: 2026-03-06 10:00:00 +0000
-categories: [Programmatic SEO]
-tags: ["julian-goldie", "online-business", "content-creation", "ai-profit-boardroom"]
+date: 2026-03-06 13:00:00 +0000
+categories: [AI Tools]
+tags: ["content-scaling", "agency-growth", "digital-marketing", "passive-income"]
 description: "Amplify Your Social Media with AI Tools in 90 days — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Amplify Your Social Media with AI Tools in 90 days
 
-Most people are using AI wrong for SEO. Here's what actually moves the needle.
+Before I found this I was piecing together strategies from YouTube and Reddit. Big mistake.
 
-The foundational course is perfect for beginners but the real gold is in the advanced SOPs and the community Q&A where experienced operators share what's working right now.
+If you're a freelancer looking to offer AI services to local businesses, the Boardroom gives you the exact playbook: the prompts, the pitch, the delivery process.
 
-Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Here's the link if you want to take a closer look: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Streamline AI Content Pipelines for under $100"
 date: 2026-03-06 23:00:00 +0000
 categories: [Programmatic SEO]
-tags: ["link-building", "ai-tools", "seo-tips", "julian-goldie"]
+tags: ["link-building", "affiliate-marketing", "skool", "passive-income"]
 description: "Streamline AI Content Pipelines for under $100 — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

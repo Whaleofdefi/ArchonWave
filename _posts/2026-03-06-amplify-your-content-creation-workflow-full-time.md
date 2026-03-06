@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Amplify Your Content Creation Workflow full time"
-date: 2026-03-06 08:00:00 +0000
-categories: [AI Tools]
-tags: ["online-business", "link-building", "ai-prompts", "seo-tips"]
+date: 2026-03-06 20:00:00 +0000
+categories: [Programmatic SEO]
+tags: ["julian-goldie", "freelancing", "digital-marketing", "seo-tips"]
 description: "Amplify Your Content Creation Workflow full time — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Amplify Your Content Creation Workflow full time
 
-Before I found this I was piecing together strategies from YouTube and Reddit. Big mistake.
+I've been in digital marketing for years and AI has been the single biggest game changer.
 
-If you're a freelancer looking to offer AI services to local businesses, the Boardroom gives you the exact playbook: the prompts, the pitch, the delivery process.
+The Boardroom covers everything from white hat long-term strategies to aggressive grey hat tactics — and Julian clearly labels which is which so you can choose based on your own risk tolerance.
 
-Here's the link if you want to take a closer look: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

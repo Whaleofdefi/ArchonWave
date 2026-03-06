@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Dominate AI Content Pipelines full time"
-date: 2026-03-06 11:00:00 +0000
-categories: [AI Tools]
-tags: ["online-business", "passive-income", "agency-growth", "ai-tools"]
+date: 2026-03-06 18:00:00 +0000
+categories: [Passive Income]
+tags: ["agency-growth", "digital-marketing", "passive-income", "seo-tips"]
 description: "Dominate AI Content Pipelines full time — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Dominate AI Content Pipelines full time
 
-Before I found this I was piecing together strategies from YouTube and Reddit. Big mistake.
+I tried every AI content tool out there. Most are hype. This one is different.
 
-If you're a freelancer looking to offer AI services to local businesses, the Boardroom gives you the exact playbook: the prompts, the pitch, the delivery process.
+The entry price is around $59/month — nothing compared to the 40+ hours a week you could save with the right AI automations. Most members recoup that in their first week.
 
-Here's the link if you want to take a closer look: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Curious what others think — have you tried it? Link here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

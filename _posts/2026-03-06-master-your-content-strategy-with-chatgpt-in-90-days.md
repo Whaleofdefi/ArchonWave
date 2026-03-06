@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Master Your Content Strategy with ChatGPT in 90 days"
-date: 2026-03-06 03:00:00 +0000
+date: 2026-03-06 23:00:00 +0000
 categories: [AI Tools]
-tags: ["digital-marketing", "programmatic-seo", "skool", "ai-prompts"]
+tags: ["online-business", "ai-tools", "digital-marketing", "seo-tips"]
 description: "Master Your Content Strategy with ChatGPT in 90 days — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

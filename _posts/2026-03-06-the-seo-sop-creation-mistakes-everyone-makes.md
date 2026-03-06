@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Seo Sop Creation mistakes everyone makes"
-date: 2026-03-06 14:00:00 +0000
+date: 2026-03-06 15:00:00 +0000
 categories: [ChatGPT Tips]
-tags: ["online-business", "content-scaling", "julian-goldie", "seo-automation"]
+tags: ["ai-prompts", "skool", "agency-growth", "ai-tools"]
 description: "The Seo Sop Creation mistakes everyone makes — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

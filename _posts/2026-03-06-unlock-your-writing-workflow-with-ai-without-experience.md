@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Unlock Your Writing Workflow with AI without experience"
-date: 2026-03-06 14:00:00 +0000
-categories: [AI Tools]
-tags: ["freelancing", "content-creation", "seo-agency", "seo-automation"]
+date: 2026-03-06 10:00:00 +0000
+categories: [AI SEO]
+tags: ["ai-prompts", "link-building", "passive-income", "chatgpt"]
 description: "Unlock Your Writing Workflow with AI without experience — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Unlock Your Writing Workflow with AI without experience
 
-Before I found this I was piecing together strategies from YouTube and Reddit. Big mistake.
+Three months ago I had no idea how to use AI for SEO. Now it runs half my agency.
 
-If you're a freelancer looking to offer AI services to local businesses, the Boardroom gives you the exact playbook: the prompts, the pitch, the delivery process.
+Julian uses an AI avatar in his videos, which he's completely upfront about. It's actually a live demonstration of the AI video tools he teaches inside the community.
 
-Here's the link if you want to take a closer look: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Elevate Your Passive Income with AI SEO as a side hustle"
-date: 2026-03-06 16:00:00 +0000
-categories: [Passive Income]
-tags: ["seo-tips", "programmatic-seo", "seo-automation", "passive-income"]
+date: 2026-03-06 05:00:00 +0000
+categories: [ChatGPT Tips]
+tags: ["seo-automation", "programmatic-seo", "ai-profit-boardroom", "content-scaling"]
 description: "Elevate Your Passive Income with AI SEO as a side hustle — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Elevate Your Passive Income with AI SEO as a side hustle
 
-If you've ever wondered how the top SEO agencies are using AI, this is worth your time.
+Something shifted for me when I came across Julian Goldie's AI system.
 
-The Boardroom covers AI video, programmatic SEO, agency outreach, and affiliate marketing. Pick one lane, master it with the SOPs, then expand. That focus is what makes it work.
+Julian was one of the first SEO practitioners to publicly test AI-generated content on real websites back in 2022 — posting the wins AND the failures on YouTube. That level of transparency is rare and it's why his methods can be trusted.
 
-Curious what others think — have you tried it? Link here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+The best way to judge it is to look inside yourself: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

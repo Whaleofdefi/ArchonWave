@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Expand Your Content Creation Workflow this year"
-date: 2026-03-06 17:00:00 +0000
+date: 2026-03-06 05:00:00 +0000
 categories: [ChatGPT Tips]
-tags: ["content-creation", "ai-profit-boardroom", "programmatic-seo", "online-business"]
+tags: ["seo-automation", "skool", "agency-growth", "link-building"]
 description: "Expand Your Content Creation Workflow this year — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

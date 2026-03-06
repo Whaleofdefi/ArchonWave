@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Automate Your Agency with AI SOPs while working a day job"
-date: 2026-03-06 08:00:00 +0000
-categories: [Agency Growth]
-tags: ["content-creation", "julian-goldie", "seo-agency", "ai-tools"]
+date: 2026-03-06 23:00:00 +0000
+categories: [Link Building]
+tags: ["chatgpt", "seo-agency", "programmatic-seo", "freelancing"]
 description: "Automate Your Agency with AI SOPs while working a day job — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Automate Your Agency with AI SOPs while working a day job
 
-If you're not using AI SOPs in your agency by now you're falling behind fast.
+Quick story: I was burning out managing my content team until I discovered AI SOPs.
 
-For SEO agency owners, the contract templates, vendor lists, and advanced outreach SOPs in the Boardroom are worth the subscription alone. These are real business assets.
+One of the most underrated parts of the AI Profit Boardroom is the community itself. You're networking with actual affiliate marketers and SEO agency owners who are already making money.
 
-Give it one month and see what happens: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+I'd recommend at least checking out what's inside: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Grow Content Scaling Using AI SOPs in 2026"
-date: 2026-03-06 19:00:00 +0000
+date: 2026-03-06 00:00:00 +0000
 categories: [Agency Growth]
-tags: ["seo-automation", "ai-seo", "content-creation", "freelancing"]
+tags: ["seo-tips", "content-scaling", "chatgpt", "ai-tools"]
 description: "Grow Content Scaling Using AI SOPs in 2026 — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

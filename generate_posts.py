@@ -24,6 +24,7 @@ SITE_TITLE = "AI SEO Mastery"
 SITE_DESCRIPTION = "Real strategies for scaling your SEO agency and affiliate business with AI"
 AUTHOR = "SEO Pro"
 TOTAL_POSTS = 30000
+BATCH_SIZE = 1500  # Posts per run
 START_DATE = datetime(2023, 1, 1)
 
 # ─── CONTENT BUILDING BLOCKS ─────────────────────────────────────────────────
@@ -280,7 +281,7 @@ affiliate_link: "{AFFILIATE_LINK}"
 """
 
 
-def generate_all_posts(site_url=""):
+def generate_all_posts(site_url="", offset=0):
     posts_dir = Path("_posts")
     posts_dir.mkdir(exist_ok=True)
 
@@ -297,15 +298,21 @@ def generate_all_posts(site_url=""):
         headline_pool.append(f"{a} {s} {q}")
         headline_pool.append(p.format(topic=t.title()))
 
+    random.seed(offset)
     random.shuffle(headline_pool)
-    used_slugs = set()
-    all_urls = []
 
-    # Use site_url from config or default placeholder
+    # Load already-used slugs to avoid duplicates across batches
+    used_slugs = set()
+    for existing in posts_dir.glob("*.md"):
+        used_slugs.add(existing.stem[11:])  # strip YYYY-MM-DD- prefix
+
+    all_urls = []
     base_url = site_url.rstrip("/") if site_url else "https://yourusername.github.io"
 
-    print(f"Generating {TOTAL_POSTS} posts...")
-    for i in range(TOTAL_POSTS):
+    start = offset
+    end = min(offset + BATCH_SIZE, TOTAL_POSTS)
+    print(f"Generating posts {start + 1} to {end}...")
+    for i in range(start, end):
         headline = headline_pool[i % len(headline_pool)]
 
         # Make slug unique
@@ -317,8 +324,8 @@ def generate_all_posts(site_url=""):
             counter += 1
         used_slugs.add(slug)
 
-        # All posts dated today
-        date = datetime.now().replace(hour=random.randint(0, 23), minute=0, second=0, microsecond=0)
+        # Spread posts over dates
+        date = datetime(2026, 3, 6, random.randint(0, 23), 0, 0)
         filename = f"{date.strftime('%Y-%m-%d')}-{slug}.md"
 
         category = CATEGORIES[i % len(CATEGORIES)]
@@ -337,19 +344,23 @@ def generate_all_posts(site_url=""):
         # Track the live URL
         all_urls.append(f"{base_url}/{slug}/")
 
-        if (i + 1) % 1000 == 0:
-            print(f"  {i + 1}/{TOTAL_POSTS} posts generated...")
+        if (i - start + 1) % 500 == 0:
+            print(f"  {i - start + 1}/{end - start} posts generated...")
 
-    # Write all URLs to post_urls.txt
-    with open("post_urls.txt", "w", encoding="utf-8") as f:
-        f.write(f"# {TOTAL_POSTS} Post URLs\n")
-        f.write(f"# Site: {base_url}\n")
-        f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+    # Append URLs to post_urls.txt
+    mode = "a" if offset > 0 else "w"
+    with open("post_urls.txt", mode, encoding="utf-8") as f:
+        if offset == 0:
+            f.write(f"# {TOTAL_POSTS} Post URLs\n")
+            f.write(f"# Site: {base_url}\n")
+            f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
         for url in all_urls:
             f.write(url + "\n")
 
-    print(f"Done! {TOTAL_POSTS} posts saved to _posts/")
-    print(f"All {TOTAL_POSTS} URLs saved to post_urls.txt")
+    print(f"Done! Posts {start + 1} to {end} saved to _posts/")
+    print(f"Total posts on disk: {len(list(posts_dir.glob('*.md')))}")
+    if end < TOTAL_POSTS:
+        print(f"\n>>> Next batch: run with --offset {end}")
 
 
 # ─── JEKYLL CONFIG ────────────────────────────────────────────────────────────
@@ -456,11 +467,12 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Jekyll Post Generator")
     parser.add_argument("--site-url", default="", help="Your GitHub Pages URL e.g. https://yourusername.github.io")
+    parser.add_argument("--offset", type=int, default=0, help="Start from this post number (for batching)")
     args = parser.parse_args()
 
     print("=" * 50)
     print("Jekyll Post Generator")
-    print(f"Generating {TOTAL_POSTS} posts...")
+    print(f"Batch size: {BATCH_SIZE} | Starting at offset: {args.offset}")
     if args.site_url:
         print(f"Site URL: {args.site_url}")
     else:
@@ -471,7 +483,7 @@ if __name__ == "__main__":
     write_homepage()
     write_gemfile()
     write_about()
-    generate_all_posts(site_url=args.site_url)
+    generate_all_posts(site_url=args.site_url, offset=args.offset)
 
     print("=" * 50)
     print("All done! Next steps:")

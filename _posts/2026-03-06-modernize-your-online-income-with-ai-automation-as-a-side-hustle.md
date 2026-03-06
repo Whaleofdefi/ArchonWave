@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Modernize Your Online Income with AI Automation as a side hustle"
-date: 2026-03-06 13:00:00 +0000
+date: 2026-03-06 17:00:00 +0000
 categories: [Passive Income]
-tags: ["agency-growth", "digital-marketing", "programmatic-seo", "online-business"]
+tags: ["digital-marketing", "julian-goldie", "ai-prompts", "programmatic-seo"]
 description: "Modernize Your Online Income with AI Automation as a side hustle — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

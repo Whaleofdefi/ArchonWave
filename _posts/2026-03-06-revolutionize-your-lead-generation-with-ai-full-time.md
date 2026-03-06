@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Revolutionize Your Lead Generation with AI full time"
-date: 2026-03-06 04:00:00 +0000
+date: 2026-03-06 20:00:00 +0000
 categories: [Affiliate Marketing]
-tags: ["affiliate-marketing", "content-scaling", "agency-growth", "seo-automation"]
+tags: ["affiliate-marketing", "online-business", "link-building", "ai-tools"]
 description: "Revolutionize Your Lead Generation with AI full time — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

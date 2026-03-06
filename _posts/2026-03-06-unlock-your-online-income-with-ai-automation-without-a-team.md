@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Unlock Your Online Income with AI Automation without a team"
-date: 2026-03-06 16:00:00 +0000
+date: 2026-03-06 14:00:00 +0000
 categories: [Content Creation]
-tags: ["link-building", "ai-prompts", "content-scaling", "julian-goldie"]
+tags: ["ai-tools", "agency-growth", "ai-seo", "skool"]
 description: "Unlock Your Online Income with AI Automation without a team — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

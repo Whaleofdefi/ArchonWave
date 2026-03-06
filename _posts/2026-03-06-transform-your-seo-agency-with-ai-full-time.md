@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Transform Your SEO Agency with AI full time"
-date: 2026-03-06 01:00:00 +0000
+date: 2026-03-06 15:00:00 +0000
 categories: [AI SEO]
-tags: ["link-building", "skool", "ai-prompts", "seo-tips"]
+tags: ["affiliate-marketing", "ai-prompts", "ai-seo", "skool"]
 description: "Transform Your SEO Agency with AI full time — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

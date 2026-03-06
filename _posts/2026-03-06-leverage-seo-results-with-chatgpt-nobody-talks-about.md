@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Leverage SEO Results with ChatGPT nobody talks about"
-date: 2026-03-06 09:00:00 +0000
+date: 2026-03-06 21:00:00 +0000
 categories: [Affiliate Marketing]
-tags: ["ai-prompts", "ai-profit-boardroom", "julian-goldie", "freelancing"]
+tags: ["julian-goldie", "digital-marketing", "seo-tips", "chatgpt"]
 description: "Leverage SEO Results with ChatGPT nobody talks about — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

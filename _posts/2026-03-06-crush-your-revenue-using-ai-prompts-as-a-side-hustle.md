@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Crush Your Revenue Using AI Prompts as a side hustle"
-date: 2026-03-06 22:00:00 +0000
-categories: [Content Creation]
-tags: ["affiliate-marketing", "seo-automation", "julian-goldie", "freelancing"]
+date: 2026-03-06 15:00:00 +0000
+categories: [Programmatic SEO]
+tags: ["passive-income", "content-scaling", "agency-growth", "programmatic-seo"]
 description: "Crush Your Revenue Using AI Prompts as a side hustle — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Crush Your Revenue Using AI Prompts as a side hustle
 
-Real talk — I was skeptical about using AI for SEO but this changed my mind completely.
+I've been in digital marketing for years and AI has been the single biggest game changer.
 
-What makes this different from every other AI course is the Workflow Vault — a library of SOPs with actual ChatGPT prompts for everything from affiliate content to building 1000-page websites. Copy the prompt, paste into ChatGPT, follow the process.
+The Boardroom covers everything from white hat long-term strategies to aggressive grey hat tactics — and Julian clearly labels which is which so you can choose based on your own risk tolerance.
 
-This is the community I wish existed when I started: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

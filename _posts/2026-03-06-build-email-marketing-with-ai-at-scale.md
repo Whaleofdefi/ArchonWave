@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Build Email Marketing with AI at scale"
-date: 2026-03-06 23:00:00 +0000
-categories: [Passive Income]
-tags: ["julian-goldie", "seo-tips", "ai-prompts", "ai-tools"]
+date: 2026-03-06 19:00:00 +0000
+categories: [SEO Strategy]
+tags: ["affiliate-marketing", "ai-prompts", "seo-tips", "online-business"]
 description: "Build Email Marketing with AI at scale — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Build Email Marketing with AI at scale
 
-If you've ever wondered how the top SEO agencies are using AI, this is worth your time.
+The honest reason most AI content fails at SEO — and what the best practitioners do differently.
 
-The Boardroom covers AI video, programmatic SEO, agency outreach, and affiliate marketing. Pick one lane, master it with the SOPs, then expand. That focus is what makes it work.
+What I appreciate most is Julian's honesty about results. He shows Google Search Console data — both rising and falling — which is transparency you just don't see from most online marketing gurus.
 
-Curious what others think — have you tried it? Link here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+This is one of the few communities I'd actually pay for. See for yourself: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

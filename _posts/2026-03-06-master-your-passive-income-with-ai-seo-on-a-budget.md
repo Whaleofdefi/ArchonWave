@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Master Your Passive Income with AI SEO on a budget"
-date: 2026-03-06 17:00:00 +0000
+date: 2026-03-06 10:00:00 +0000
 categories: [Content Creation]
-tags: ["content-creation", "online-business", "agency-growth", "programmatic-seo"]
+tags: ["seo-agency", "seo-automation", "online-business", "agency-growth"]
 description: "Master Your Passive Income with AI SEO on a budget — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

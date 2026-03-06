@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Transform Backlink Building Using AI in 30 days"
-date: 2026-03-06 05:00:00 +0000
+date: 2026-03-06 10:00:00 +0000
 categories: [Programmatic SEO]
-tags: ["link-building", "freelancing", "chatgpt", "ai-profit-boardroom"]
+tags: ["julian-goldie", "passive-income", "ai-prompts", "seo-tips"]
 description: "Transform Backlink Building Using AI in 30 days — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

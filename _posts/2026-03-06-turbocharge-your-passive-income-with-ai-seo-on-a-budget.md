@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Turbocharge Your Passive Income with AI SEO on a budget"
-date: 2026-03-06 05:00:00 +0000
+date: 2026-03-06 17:00:00 +0000
 categories: [Link Building]
-tags: ["agency-growth", "link-building", "seo-tips", "passive-income"]
+tags: ["passive-income", "julian-goldie", "chatgpt", "content-creation"]
 description: "Turbocharge Your Passive Income with AI SEO on a budget — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

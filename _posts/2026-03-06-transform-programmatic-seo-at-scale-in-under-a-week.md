@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Transform Programmatic SEO at Scale in under a week"
-date: 2026-03-06 01:00:00 +0000
-categories: [Content Creation]
-tags: ["digital-marketing", "julian-goldie", "seo-tips", "content-creation"]
+date: 2026-03-06 02:00:00 +0000
+categories: [AI SEO]
+tags: ["ai-tools", "link-building", "online-business", "programmatic-seo"]
 description: "Transform Programmatic SEO at Scale in under a week — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Transform Programmatic SEO at Scale in under a week
 
-Real talk — I was skeptical about using AI for SEO but this changed my mind completely.
+Been deep in the AI and SEO rabbit hole lately and I have to share what I found.
 
-What makes this different from every other AI course is the Workflow Vault — a library of SOPs with actual ChatGPT prompts for everything from affiliate content to building 1000-page websites. Copy the prompt, paste into ChatGPT, follow the process.
+Julian Goldie built a seven-figure link-building SEO agency before AI even existed. Now he shares the exact ChatGPT prompt chains he uses daily through the AI Profit Boardroom — a paid Skool community. The SOPs are copy-paste ready and you don't need to be a tech genius to use them.
 
-This is the community I wish existed when I started: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

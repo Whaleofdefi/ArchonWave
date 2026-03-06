@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Crush Email Marketing with AI without writing a word"
-date: 2026-03-06 00:00:00 +0000
-categories: [Programmatic SEO]
-tags: ["ai-prompts", "passive-income", "affiliate-marketing", "programmatic-seo"]
+date: 2026-03-06 07:00:00 +0000
+categories: [Agency Growth]
+tags: ["online-business", "skool", "content-scaling", "julian-goldie"]
 description: "Crush Email Marketing with AI without writing a word — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Crush Email Marketing with AI without writing a word
 
-Most people are using AI wrong for SEO. Here's what actually moves the needle.
+If you're running an SEO agency or affiliate site you need to hear this.
 
-The foundational course is perfect for beginners but the real gold is in the advanced SOPs and the community Q&A where experienced operators share what's working right now.
+The community hosts four coaching calls a week where Julian or a coach builds something live on screen. If you miss a call it's recorded in the Classroom tab. This alone is worth more than most paid courses I've taken.
 
-Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Give it one month and see what happens: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

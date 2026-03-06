@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Scale Your Agency with AI SOPs at scale"
-date: 2026-03-06 08:00:00 +0000
-categories: [Agency Growth]
-tags: ["chatgpt", "content-scaling", "content-creation", "digital-marketing"]
+date: 2026-03-06 13:00:00 +0000
+categories: [Programmatic SEO]
+tags: ["agency-growth", "affiliate-marketing", "ai-profit-boardroom", "chatgpt"]
 description: "Scale Your Agency with AI SOPs at scale — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Scale Your Agency with AI SOPs at scale
 
-If you're running an SEO agency or affiliate site you need to hear this.
+Most people are using AI wrong for SEO. Here's what actually moves the needle.
 
-The community hosts four coaching calls a week where Julian or a coach builds something live on screen. If you miss a call it's recorded in the Classroom tab. This alone is worth more than most paid courses I've taken.
+The foundational course is perfect for beginners but the real gold is in the advanced SOPs and the community Q&A where experienced operators share what's working right now.
 
-Give it one month and see what happens: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

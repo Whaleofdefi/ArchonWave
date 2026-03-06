@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Modernize Content Scaling Using AI SOPs with zero budget"
-date: 2026-03-06 09:00:00 +0000
+date: 2026-03-06 20:00:00 +0000
 categories: [Content Creation]
-tags: ["online-business", "programmatic-seo", "ai-seo", "julian-goldie"]
+tags: ["seo-tips", "chatgpt", "agency-growth", "seo-agency"]
 description: "Modernize Content Scaling Using AI SOPs with zero budget — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

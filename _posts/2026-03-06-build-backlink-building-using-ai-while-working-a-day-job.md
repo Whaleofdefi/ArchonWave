@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Build Backlink Building Using AI while working a day job"
-date: 2026-03-06 08:00:00 +0000
-categories: [Passive Income]
-tags: ["content-scaling", "ai-profit-boardroom", "chatgpt", "agency-growth"]
+date: 2026-03-06 23:00:00 +0000
+categories: [AI SEO]
+tags: ["link-building", "freelancing", "seo-tips", "seo-agency"]
 description: "Build Backlink Building Using AI while working a day job — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Build Backlink Building Using AI while working a day job
 
-If you've ever wondered how the top SEO agencies are using AI, this is worth your time.
+Three months ago I had no idea how to use AI for SEO. Now it runs half my agency.
 
-The Boardroom covers AI video, programmatic SEO, agency outreach, and affiliate marketing. Pick one lane, master it with the SOPs, then expand. That focus is what makes it work.
+Julian uses an AI avatar in his videos, which he's completely upfront about. It's actually a live demonstration of the AI video tools he teaches inside the community.
 
-Curious what others think — have you tried it? Link here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Master Programmatic SEO at Scale as a complete beginner"
-date: 2026-03-06 14:00:00 +0000
+date: 2026-03-06 11:00:00 +0000
 categories: [ChatGPT Tips]
-tags: ["chatgpt", "skool", "content-creation", "ai-tools"]
+tags: ["content-scaling", "freelancing", "seo-tips", "chatgpt"]
 description: "Master Programmatic SEO at Scale as a complete beginner — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

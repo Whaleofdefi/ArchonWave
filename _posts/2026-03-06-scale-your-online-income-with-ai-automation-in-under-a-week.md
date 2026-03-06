@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Scale Your Online Income with AI Automation in under a week"
-date: 2026-03-06 20:00:00 +0000
+date: 2026-03-06 23:00:00 +0000
 categories: [Content Creation]
-tags: ["ai-tools", "skool", "julian-goldie", "affiliate-marketing"]
+tags: ["content-creation", "chatgpt", "skool", "freelancing"]
 description: "Scale Your Online Income with AI Automation in under a week — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

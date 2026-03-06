@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Upgrade Your Online Income with AI Automation in 90 days"
-date: 2026-03-06 08:00:00 +0000
+date: 2026-03-06 04:00:00 +0000
 categories: [SEO Strategy]
-tags: ["seo-tips", "ai-profit-boardroom", "ai-tools", "programmatic-seo"]
+tags: ["ai-profit-boardroom", "link-building", "agency-growth", "seo-tips"]
 description: "Upgrade Your Online Income with AI Automation in 90 days — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

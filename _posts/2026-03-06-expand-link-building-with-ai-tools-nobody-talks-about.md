@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Expand Link Building with AI Tools nobody talks about"
-date: 2026-03-06 18:00:00 +0000
+date: 2026-03-06 02:00:00 +0000
 categories: [Passive Income]
-tags: ["digital-marketing", "seo-tips", "ai-profit-boardroom", "content-scaling"]
+tags: ["content-creation", "ai-tools", "seo-tips", "julian-goldie"]
 description: "Expand Link Building with AI Tools nobody talks about — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

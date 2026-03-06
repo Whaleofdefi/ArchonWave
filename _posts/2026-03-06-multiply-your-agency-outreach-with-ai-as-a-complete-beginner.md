@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Multiply Your Agency Outreach with AI as a complete beginner"
-date: 2026-03-06 13:00:00 +0000
-categories: [AI SEO]
-tags: ["passive-income", "ai-seo", "ai-tools", "digital-marketing"]
+date: 2026-03-06 15:00:00 +0000
+categories: [ChatGPT Tips]
+tags: ["ai-prompts", "agency-growth", "programmatic-seo", "seo-tips"]
 description: "Multiply Your Agency Outreach with AI as a complete beginner — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Multiply Your Agency Outreach with AI as a complete beginner
 
-Been deep in the AI and SEO rabbit hole lately and I have to share what I found.
+Something shifted for me when I came across Julian Goldie's AI system.
 
-Julian Goldie built a seven-figure link-building SEO agency before AI even existed. Now he shares the exact ChatGPT prompt chains he uses daily through the AI Profit Boardroom — a paid Skool community. The SOPs are copy-paste ready and you don't need to be a tech genius to use them.
+Julian was one of the first SEO practitioners to publicly test AI-generated content on real websites back in 2022 — posting the wins AND the failures on YouTube. That level of transparency is rare and it's why his methods can be trusted.
 
-If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+The best way to judge it is to look inside yourself: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

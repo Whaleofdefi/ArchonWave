@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Skyrocket Your Lead Generation with AI while working a day job"
-date: 2026-03-06 22:00:00 +0000
-categories: [Programmatic SEO]
-tags: ["ai-prompts", "freelancing", "ai-seo", "ai-tools"]
+date: 2026-03-06 10:00:00 +0000
+categories: [AI SEO]
+tags: ["link-building", "seo-automation", "seo-tips", "seo-agency"]
 description: "Skyrocket Your Lead Generation with AI while working a day job — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Skyrocket Your Lead Generation with AI while working a day job
 
-Most people are using AI wrong for SEO. Here's what actually moves the needle.
+Been deep in the AI and SEO rabbit hole lately and I have to share what I found.
 
-The foundational course is perfect for beginners but the real gold is in the advanced SOPs and the community Q&A where experienced operators share what's working right now.
+Julian Goldie built a seven-figure link-building SEO agency before AI even existed. Now he shares the exact ChatGPT prompt chains he uses daily through the AI Profit Boardroom — a paid Skool community. The SOPs are copy-paste ready and you don't need to be a tech genius to use them.
 
-Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Expand Your Agency with AI SOPs in under a week"
-date: 2026-03-06 16:00:00 +0000
-categories: [Content Creation]
-tags: ["content-creation", "programmatic-seo", "ai-seo", "ai-profit-boardroom"]
+date: 2026-03-06 18:00:00 +0000
+categories: [Affiliate Marketing]
+tags: ["ai-tools", "link-building", "digital-marketing", "agency-growth"]
 description: "Expand Your Agency with AI SOPs in under a week — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Expand Your Agency with AI SOPs in under a week
 
-I used to spend 40 hours a week on content. Now I spend 4. Here's what changed.
+I've spent the last month testing AI tools for content creation and the results blew me away.
 
-I copied one SOP from the Vault, ran it through ChatGPT, and had a complete affiliate article framework in 20 minutes. What used to take my writer two days now takes less than an hour.
+The AI Profit Boardroom on Skool is what happens when an actual SEO agency owner shares his real systems. No fluff, no theory — just the prompts, workflows, and strategies Julian uses every day to run his agency at scale.
 
-This is the community I wish existed when I started: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Worth exploring if you're serious about AI and SEO: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

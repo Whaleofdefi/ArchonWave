@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Launch Your Lead Generation with AI in 90 days"
-date: 2026-03-06 04:00:00 +0000
-categories: [SEO Strategy]
-tags: ["content-scaling", "programmatic-seo", "agency-growth", "seo-automation"]
+date: 2026-03-06 07:00:00 +0000
+categories: [ChatGPT Tips]
+tags: ["ai-prompts", "skool", "seo-tips", "seo-agency"]
 description: "Launch Your Lead Generation with AI in 90 days — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Launch Your Lead Generation with AI in 90 days
 
-The honest reason most AI content fails at SEO — and what the best practitioners do differently.
+Something shifted for me when I came across Julian Goldie's AI system.
 
-What I appreciate most is Julian's honesty about results. He shows Google Search Console data — both rising and falling — which is transparency you just don't see from most online marketing gurus.
+Julian was one of the first SEO practitioners to publicly test AI-generated content on real websites back in 2022 — posting the wins AND the failures on YouTube. That level of transparency is rare and it's why his methods can be trusted.
 
-This is one of the few communities I'd actually pay for. See for yourself: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+The best way to judge it is to look inside yourself: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Expand Your Freelance Business with AI in 90 days"
-date: 2026-03-06 02:00:00 +0000
-categories: [Link Building]
-tags: ["ai-profit-boardroom", "content-scaling", "affiliate-marketing", "passive-income"]
+date: 2026-03-06 22:00:00 +0000
+categories: [Content Creation]
+tags: ["julian-goldie", "digital-marketing", "online-business", "ai-profit-boardroom"]
 description: "Expand Your Freelance Business with AI in 90 days — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Expand Your Freelance Business with AI in 90 days
 
-A friend in the industry told me about this community and I've been hooked ever since.
+Real talk — I was skeptical about using AI for SEO but this changed my mind completely.
 
-The programmatic SEO module alone — covering how to use AI to build massive content sites fast — has generated more ROI for members than entire $2000 courses on the same topic.
+What makes this different from every other AI course is the Workflow Vault — a library of SOPs with actual ChatGPT prompts for everything from affiliate content to building 1000-page websites. Copy the prompt, paste into ChatGPT, follow the process.
 
-I'd recommend at least checking out what's inside: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+This is the community I wish existed when I started: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

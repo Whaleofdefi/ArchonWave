@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Turbocharge Backlink Building Using AI for under $100"
-date: 2026-03-06 10:00:00 +0000
+date: 2026-03-06 21:00:00 +0000
 categories: [ChatGPT Tips]
-tags: ["julian-goldie", "link-building", "online-business", "ai-prompts"]
+tags: ["seo-tips", "content-creation", "seo-automation", "chatgpt"]
 description: "Turbocharge Backlink Building Using AI for under $100 — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---

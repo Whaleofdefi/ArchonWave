@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Dominate Email Marketing with AI for beginners"
-date: 2026-03-06 14:00:00 +0000
-categories: [AI SEO]
-tags: ["link-building", "skool", "agency-growth", "seo-automation"]
+date: 2026-03-06 23:00:00 +0000
+categories: [Programmatic SEO]
+tags: ["content-scaling", "seo-agency", "ai-profit-boardroom", "julian-goldie"]
 description: "Dominate Email Marketing with AI for beginners — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
 
 ## Dominate Email Marketing with AI for beginners
 
-Three months ago I had no idea how to use AI for SEO. Now it runs half my agency.
+I've been in digital marketing for years and AI has been the single biggest game changer.
 
-Julian uses an AI avatar in his videos, which he's completely upfront about. It's actually a live demonstration of the AI video tools he teaches inside the community.
+The Boardroom covers everything from white hat long-term strategies to aggressive grey hat tactics — and Julian clearly labels which is which so you can choose based on your own risk tolerance.
 
-If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+Check it out and make your own call: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
 
 ---
 

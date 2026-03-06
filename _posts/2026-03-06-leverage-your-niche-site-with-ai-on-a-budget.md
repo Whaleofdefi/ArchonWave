@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Leverage Your Niche Site with AI on a budget"
-date: 2026-03-06 16:00:00 +0000
+date: 2026-03-06 13:00:00 +0000
 categories: [Agency Growth]
-tags: ["digital-marketing", "affiliate-marketing", "skool", "ai-tools"]
+tags: ["online-business", "content-scaling", "freelancing", "seo-agency"]
 description: "Leverage Your Niche Site with AI on a budget — learn how to use AI to grow your SEO agency and affiliate business."
 affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
 ---
