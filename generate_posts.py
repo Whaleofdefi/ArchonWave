@@ -317,8 +317,8 @@ def generate_all_posts(site_url=""):
             counter += 1
         used_slugs.add(slug)
 
-        # Spread posts over dates
-        date = START_DATE + timedelta(days=i // 10, hours=random.randint(0, 23))
+        # All posts dated today
+        date = datetime.now().replace(hour=random.randint(0, 23), minute=0, second=0, microsecond=0)
         filename = f"{date.strftime('%Y-%m-%d')}-{slug}.md"
 
         category = CATEGORIES[i % len(CATEGORIES)]
