@@ -1,10 +1,8 @@
 title: AI SEO Mastery
 description: Real strategies for scaling your SEO agency and affiliate business with AI
 author: SEO Pro
-baseurl: "/ArchonWave"
-url: "https://whaleofdefi.github.io"
-
-future: true
+baseurl: ""
+url: ""
 
 # Build settings
 theme: minima
@@ -17,8 +15,10 @@ plugins:
 paginate: 20
 paginate_path: "/page:num/"
 
+# Permalink structure (good for SEO)
 permalink: /:title/
 
+# Exclude from build
 exclude:
   - generate_posts.py
   - Gemfile
