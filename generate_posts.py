@@ -325,7 +325,7 @@ def generate_all_posts(site_url="", offset=0):
         used_slugs.add(slug)
 
         # Spread posts over dates
-        date = datetime(2026, 3, 6, random.randint(0, 23), 0, 0)
+        date = datetime(2026, 3, 5, 0, 0, 0)  # Past date to avoid Jekyll skipping
         filename = f"{date.strftime('%Y-%m-%d')}-{slug}.md"
 
         category = CATEGORIES[i % len(CATEGORIES)]
