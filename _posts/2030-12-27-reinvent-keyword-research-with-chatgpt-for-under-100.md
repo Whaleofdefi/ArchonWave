@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Reinvent Keyword Research with ChatGPT for under $100"
+date: 2030-12-27 09:00:00 +0000
+categories: [AI SEO]
+tags: ["chatgpt", "programmatic-seo", "online-business", "ai-tools"]
+description: "Reinvent Keyword Research with ChatGPT for under $100 — learn how to use AI to grow your SEO agency and affiliate business."
+affiliate_link: "https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d"
+---
+
+## Reinvent Keyword Research with ChatGPT for under $100
+
+Three months ago I had no idea how to use AI for SEO. Now it runs half my agency.
+
+Julian uses an AI avatar in his videos, which he's completely upfront about. It's actually a live demonstration of the AI video tools he teaches inside the community.
+
+If you want to see exactly what's inside, the link is here: [https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)
+
+---
+
+*Ready to start? [Join the AI Profit Boardroom here](https://www.skool.com/ai-profit-lab-7462/about?ref=56df874f9e3e4b6499078c78e6725c1d)*
